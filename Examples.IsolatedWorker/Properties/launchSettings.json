@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Examples.IsolatedWorker": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7011",
+      "launchBrowser": false
+    }
+  }
+}
